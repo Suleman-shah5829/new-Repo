@@ -1,4 +1,4 @@
-# new-Repo
+cd # new-Repo
 my first Repo
 <br/>
-Author -suleman shah
+Author -suleman shah from tormang
